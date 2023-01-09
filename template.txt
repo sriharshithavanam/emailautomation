@@ -1,0 +1,5 @@
+Dear {},
+This is a remainder that we have a meeting on {} For futher detalis please contact on {}
+
+Thank you,
+Reagards
